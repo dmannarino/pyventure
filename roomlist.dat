@@ -1,0 +1,25 @@
+HouseLivingRoom/HouseKitchen/HouseEntryway/FORBID/FORBID/FORBID/FORBID/The Living Room/Kyle and Emily's living room. Old, but nice furniture is accented by paintings, and the room vibrates with blacks, purples, reds, and yellows. To the north is the kitchen, and a west doorway on the north wall leads to the entryway./Item:mace:looks about a thousand years old.:0/Item:pizza:A cold pineapple pizza slice.:5
+
+HouseMasterBedroom/HouseUpstairs/FORBID/FORBID/FORBID/FORBID/FORBID/The Master Bedroom/The bedroom is large, but mostly empty. A futon, with off white sheets, and a box fan are all that inhabit the room. North is the upstairs hallway./Item:gba:A Game Boy Advanced SP, with a SMB3 cartridge:0
+
+HouseKitchen/FORBID/HouseEntryway/HouseLivingRoom/FORBID/FORBID/FORBID/The Kitchen/The kitchen is fairly clean -- kept tidy but often used. Beautiful Spanish and Mexican artwork sits on the counter and the sunlight glows red through the curtains. To the south is the living room and west is the entryway./Item:tea:An Fightin' Whities mug, with a bit of tea in it.:5/Item:knife:A blood stained butcher's knife.:0
+
+HouseEntryway/DavieRdBusStop/FORBID/HouseLivingRoom/HouseKitchen/HouseUpstairs/FORBID/The Entryway/The entryway is mostly clear. There is a door to the north. To the south is the living room. Upstairs lies the rest of the house. East is the kitchen.
+
+HouseUpstairs/HouseUpSpareRoom/FORBID/HouseMasterBedroom/HouseUpBath/FORBID/HouseEntryway/The Upstairs Hallway/An empty, blank hallway. Cat hair lines the corners of the room. There are bedrooms to the south and north, and a bathroom to the east./Item:cat-toy:A toy dynamite stick filled with cat nip.:3
+
+HouseUpBath/FORBID/HouseUpstairs/FORBID/FORBID/FORBID/FORBID/The Upstairs Bathroom/Blue and white tile brings an energy to the room, while at the same time aging it. The floor is wet from a recent shower, and the hot water is turned off. The sink probably leaks./Item:soap:Premium lava soap.:-3/Item:shampoo:Biolage Especial shampoo. The bottle is half full and bacteria grows on it's base.:-20
+
+HouseUpSpareRoom/FORBID/FORBID/HouseUpstairs/FORBID/FORBID/FORBID/The Spare Room/Mainly a climbing gear repository, the room sometimes sees occupancy when Kyle and Emily have visitors./Item:basil-plant:A withering basil plant.:-3/Item:dan's-atc:Daniel's worn ATC.:0
+
+DavieRdBusStop/Davie-CHBus/FORBID/HouseEntryway/LaTiendaMexicana/FORBID/FORBID/The Davie Rd Bus Stop/The street is dirty but bright in the daylight. To the north lies a graveyard. You don't think you should tread on the grounds. Immediately north, however, is the bus, stopped and waiting for you. To the south is the apartment entryway, and to the far east is the Mexican grocery store. 
+
+LaTiendaMexicana/FORBID/DavieRdBusStop/FORBID/FORBID/FORBID/FORBID/La Tienda Mexicana/La Tienda Mexicana is a combination gas station and taqueria. Day workers gather here during the day, and everyone is friendly, despite the beating sun. West is the Davie Rd. bus stop in front of Kyle and Emily's apartments./Item:taco:A tasty taco, from the street gutter.:5
+
+Davie-CHBus/FORBID/FORBID/DavieRdBusStop/ChapelHill/FORBID/FORBID/The Chapel-Hill Transit Bus/The bus to campus. It idles, going nowhere -- please alert the driver when you'd like to head east to Chapel Hill./Item:gum:Chewing gum, whose provienence is from under a bus seat.:-5
+
+ChapelHill/FORBID/CH-DavieBus/FORBID/ReycoLab/FORBID/FORBID/The Town of Chapel Hill/Chapel Hill is normally buzzing with people, but the summer is quiet and only sees the odd graduate student or visiting family group hitting up the restraunts on Franklin Street. To the west is a bus to Carrboro at Davie Rd. To the east is Reyco Henning's lab and Kyle's office./Item:Basketball:A Tar-Heel basketball. Could use some air.:0
+
+CH-DavieBus/FORBID/DavieRdBusStop/FORBID/ChapelHill/FORBID/FORBID/The Bus to Carrboro/The CW bus will drop you off in the west, in from of Kyle and Emily's apartment. East is Chapel Hill./Item:book:Sakurai's QM. Maybe.:100
+
+ReycoLab/FORBID/ChapelHill/FORBID/FORBID/FORBID/FORBID/Reyco's Lab/Rm. 02 in Phillips Hall. An Ion Implanter hums...not so softly. And leaks. Water? Boxes of PMTs line the floor. Far west is Chapel Hill proper./Item:pmt:A photomultiplier tube. From the early 90's, operates at 1500V.:0
